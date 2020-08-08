@@ -1,2 +1,2 @@
 # google-homepage
-First HTML/CSS project. Simple, just testing/
+First HTML/CSS project. Simple, just testing.
